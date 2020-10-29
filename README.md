@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Osmar Lago :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmar-lago-019944130/)](https://www.linkedin.com/in/osmar-lago-019944130/)
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is Osmar and ...:
+
+ - 😄 I really like to learn
+ - 📚 Currently studying Lógica de Programação and Java
+ 
+
