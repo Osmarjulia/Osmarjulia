@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 My name is Osmar and ...:
 
  - 😄 I really like to learn
- - 📚 Currently studying Lógica de Programação and Java
+ - 📚 Currently studying Lógica de Programação and Front-End
  
 
